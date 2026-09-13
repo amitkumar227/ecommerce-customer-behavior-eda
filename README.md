@@ -8,6 +8,16 @@
 
 An end-to-end Exploratory Data Analysis (EDA) portfolio project aimed at uncovering hidden purchase patterns, analyzing customer behavior, and identifying key churn signals from transactional data. This project showcases realistic data preprocessing, customer segmentation (RFM Analysis), and cohort analysis.
 
+## 🚀 Run in Google Colab
+
+| Notebook | Open in Colab |
+|---|---|
+| Data Generation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amitkumar227/ecommerce-customer-behavior-eda/blob/main/notebooks/00_generate_data.ipynb) |
+| Data Cleaning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amitkumar227/ecommerce-customer-behavior-eda/blob/main/notebooks/01_data_cleaning.ipynb) |
+| EDA Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amitkumar227/ecommerce-customer-behavior-eda/blob/main/notebooks/02_eda_analysis.ipynb) |
+| Customer Segmentation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amitkumar227/ecommerce-customer-behavior-eda/blob/main/notebooks/03_customer_segmentation.ipynb) |
+| Insights Summary | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amitkumar227/ecommerce-customer-behavior-eda/blob/main/notebooks/04_insights_summary.ipynb) |
+
 ## 🎯 Key Objectives
 - Clean and preprocess raw e-commerce transaction data.
 - Perform exploratory data analysis to find revenue trends and demographic preferences.
